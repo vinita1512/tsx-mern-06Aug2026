@@ -36,3 +36,14 @@ npm run build
 
 - Live Demo: https://tsx-mern-06-aug2026-gamma.vercel.app/
 - GitHub: https://github.com/vinita1512/tsx-mern-06Aug2026.git
+
+## Screenshots
+
+### Home Page
+![Home Page](Screenshot/Home.png)
+
+### Character Details
+![Character Details](Screenshot/Modal.png)
+
+### Pagination
+![Pagination](Screenshot/pagination.png)
