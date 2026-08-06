@@ -34,5 +34,5 @@ npm run build
 
 ## Links
 
-- Live Demo: <Vercel Link>
-- GitHub: < GitHub Repository Link>
+- Live Demo: https://tsx-mern-06-aug2026-gamma.vercel.app/
+- GitHub: https://github.com/vinita1512/tsx-mern-06Aug2026.git
